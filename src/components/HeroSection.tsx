@@ -20,11 +20,7 @@ const HeroSection = () => {
       title: 'Mentorship & Confidence',
       description: 'Guidance through etiquette training'
     },
-    {
-      image: '/IMG-20251101-WA0003.jpg',
-      title: 'Balance & Power',
-      description: 'Wellness and leadership sessions'
-    },
+   
     {
       image: '/WhatsApp Image 2025-11-01 at 14.02.06_f26e39c5.jpg',
       title: 'Celebration & Unity',
