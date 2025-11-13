@@ -91,7 +91,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold mb-1">Address</h4>
-                    <p className="text-[#D1D5E0]">The Beginning 
+                    <p className="text-[#D1D5E0]">The Beginning ,
 Bengaluru, Karnataka</p>
                   </div>
                 </div>
