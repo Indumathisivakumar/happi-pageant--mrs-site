@@ -82,7 +82,7 @@ Bengaluru, Karnataka</p>
                   href="mailto:ea@happimisspagenat.com"
                   className="text-[#D1D5E0] hover:text-[#00B8E6] transition-colors"
                 >
-                  ea@happimrspagenat.com
+                  gautam@happimrsglobal.com
                 </a>
               </div>
               <div className="flex items-start space-x-3">
