@@ -6,7 +6,7 @@ const AboutSection = () => {
           <div className="relative">
             <div className="absolute inset-0 gradient-brand opacity-20 blur-3xl rounded-full" />
             <img
-              src="/WhatsApp Image 2025-11-01 at 14.06.28_cc1ee281.jpg"
+              src="/f25ce4e5-ee59-4129-b1f4-000a1129530c.jpg"
               alt="HAPPI MRS GLOBAL Contestant"
               className="relative rounded-2xl shadow-2xl shadow-[#00B8E6]/30 w-full h-[600px] object-cover"
             />
