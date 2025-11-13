@@ -1,7 +1,7 @@
 import { Instagram, Youtube, Linkedin, Mail, Phone, MapPin } from 'lucide-react';
 
 const Footer = () => {
-  const quickLinks = ['Home', 'About', 'Journey', 'Bootcamp', 'Gallery', 'Contact'];
+  const quickLinks = ['Home', 'About', 'Journey',  'Gallery', 'Contact'];
   const legalLinks = ['Terms of Service', 'Privacy Policy'];
 
   return (
