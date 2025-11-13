@@ -17,7 +17,7 @@ const Footer = () => {
               className="h-16 w-auto mb-6"
             />
             <p className="text-[#D1D5E0] leading-relaxed mb-6">
-              HAPPI MRS GLOBAL redefines pageantry as a celebration of strength, intellect, and heart. Empowering modern women to balance elegance with purpose.
+              HAPPI Mrs GLOBAL redefines pageantry as a celebration of strength, intellect, and heart. Empowering modern women to balance elegance with purpose.
             </p>
             <div className="flex space-x-4">
               <a
@@ -73,7 +73,8 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-start space-x-3">
                 <MapPin className="text-[#00B8E6] flex-shrink-0 mt-1" size={20} />
-                <p className="text-[#D1D5E0]">The Beginnings</p>
+                <p className="text-[#D1D5E0]">The Beginning 
+Bengaluru, Karnataka</p>
               </div>
               <div className="flex items-start space-x-3">
                 <Mail className="text-[#00B8E6] flex-shrink-0 mt-1" size={20} />
@@ -81,7 +82,7 @@ const Footer = () => {
                   href="mailto:ea@happimisspagenat.com"
                   className="text-[#D1D5E0] hover:text-[#00B8E6] transition-colors"
                 >
-                  ea@happimisspagenat.com
+                  ea@happimrspagenat.com
                 </a>
               </div>
               <div className="flex items-start space-x-3">
@@ -99,7 +100,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 pt-8">
           <p className="text-center text-[#D1D5E0] text-sm">
-            © 2025 HAPPI MRS GLOBAL. All rights reserved. Empowering grace and strength worldwide.
+            © 2025 HAPPI Mrs GLOBAL. All rights reserved. Empowering grace and strength worldwide.
           </p>
         </div>
       </div>
