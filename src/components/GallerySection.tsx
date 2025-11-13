@@ -8,11 +8,11 @@ const GallerySection = () => {
     '/3cd9eb9b-8481-4766-bc32-daca2e8d3d58.jpg',
     '/c14acca9-54c4-4404-a8d4-9f2fc691c98a.jpg',
     '/a4e75349-c7ca-4d21-9e3d-8b9fb0c9da60.jpg',
-    '/IMG-20251101-WA0009.jpg',
-    '/IMG-20251101-WA0006.jpg',
-    '/IMG-20251101-WA0004.jpg',
-    '/Gemini_Generated_Image_6yyxrv6yyxrv6yyx copy.png',
-    '/Gemini_Generated_Image_r4g5w1r4g5w1r4g5.png',
+    '/5b5b6749-bf5e-46f4-8e8b-f261823eb6b4.jpg',
+    '/08deea43-01c5-4541-b22c-e1aa664fe187.png',
+    '/0608e288-d6c4-43b4-82d6-f19529dff9cf.jpg',
+    '/cd55f0aa-1341-4baf-bdc7-5fef4e27b8b6.png',
+    '/d82f142e-cf51-4318-af75-3c900444ffc4.jpg',
   
   ];
 
