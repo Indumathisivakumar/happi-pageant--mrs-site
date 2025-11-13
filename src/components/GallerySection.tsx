@@ -4,10 +4,10 @@ const GallerySection = () => {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
 
   const images = [
-    '/WhatsApp Image 2025-11-01 at 19.44.01_a52e7ca1.jpg',
-    '/WhatsApp Image 2025-11-01 at 20.04.18_875d05a3.jpg',
-    '/WhatsApp Image 2025-11-01 at 14.24.28_c393fd0d.jpg',
-    '/IMG-20251101-WA0007.jpg',
+    '/8a2c3d1b-2a68-4314-9732-e10dbb693277.jpg',
+    '/3cd9eb9b-8481-4766-bc32-daca2e8d3d58.jpg',
+    '/c14acca9-54c4-4404-a8d4-9f2fc691c98a.jpg',
+    '/a4e75349-c7ca-4d21-9e3d-8b9fb0c9da60.jpg',
     '/IMG-20251101-WA0009.jpg',
     '/IMG-20251101-WA0006.jpg',
     '/IMG-20251101-WA0004.jpg',
