@@ -91,7 +91,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold mb-1">Address</h4>
-                    <p className="text-[#D1D5E0]">The Beginnings</p>
+                    <p className="text-[#D1D5E0]">The Beginning 
+Bengaluru, Karnataka</p>
                   </div>
                 </div>
 
@@ -102,7 +103,7 @@ const ContactSection = () => {
                   <div>
                     <h4 className="text-white font-semibold mb-1">Email</h4>
                     <a href="mailto:ea@happimisspagenat.com" className="text-[#D1D5E0] hover:text-[#00B8E6] transition-colors">
-                      ea@happimisspagenat.com
+                      gautam@happimrsglobal.com
                     </a>
                   </div>
                 </div>
