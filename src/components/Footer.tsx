@@ -17,7 +17,7 @@ const Footer = () => {
               className="h-16 w-auto mb-6"
             />
             <p className="text-[#D1D5E0] leading-relaxed mb-6">
-              HAPPI Mrs GLOBAL redefines pageantry as a celebration of strength, intellect, and heart. Empowering modern women to balance elegance with purpose.
+              Happi Mrs Global redefines pageantry as a celebration of strength, intellect, and heart. Empowering modern women to balance elegance with purpose.
             </p>
             <div className="flex space-x-4">
               <a
@@ -100,7 +100,7 @@ Bengaluru, Karnataka</p>
 
         <div className="border-t border-white/10 pt-8">
           <p className="text-center text-[#D1D5E0] text-sm">
-            © 2025 HAPPI Mrs GLOBAL. All rights reserved. Empowering grace and strength worldwide.
+            © 2025 Happi Mrs Global. All rights reserved. Empowering grace and strength worldwide.
           </p>
         </div>
       </div>
