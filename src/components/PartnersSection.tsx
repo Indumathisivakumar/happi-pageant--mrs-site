@@ -4,11 +4,11 @@ const PartnersSection = () => {
   const partners = [
     { name: 'Photographers', logo: '/unnamed (4).jpg' },
     { name: 'Makeup Artists', logo: '/unnamed.jpg' },
-    { name: 'Boutiques', logo: '/unnamed (1).jpg' },
-    { name: 'Jewelry Brands', logo: '/unnamed (7).jpg' },
-    { name: 'Fitness Centers', logo: '/unnamed (6).jpg' },
+    { name: 'Boutiques', logo: '/61dbbfbe-1cd8-43a3-878a-61229f464282.jpg' },
+    { name: 'Jewelry Brands', logo: '/2f2df118-45ea-4fb6-b72b-a64edb1ccc84.jpg' },
+    { name: 'Fitness Centers', logo: '/61dbbfbe-1cd8-43a3-878a-61229f464282.jpg' },
     { name: 'Hotels & Resorts', logo: '/unnamed (5).jpg' },
-    { name: 'Media Partners', logo: '/unnamed (3).jpg' },
+    { name: 'Media Partners', logo: '/2f2df118-45ea-4fb6-b72b-a64edb1ccc84.jpg' },
     { name: 'Beauty Brands', logo: '/unnamed (2).jpg' },
   ];
 
